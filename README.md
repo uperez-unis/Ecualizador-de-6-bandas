@@ -247,6 +247,6 @@ Durante el análisis inicial con una octava se observó que la respuesta máxima
 
 ## Video del Proyecto
 
-En el siguiente enlace se presenta el funcionamiento y explicación general del proyecto:
+En el siguiente enlace se presenta el funcionamiento general del proyecto:
 
 [Ver video en YouTube](https://youtube.com/shorts/Q-_U898Za5Q)
